@@ -1,5 +1,5 @@
 # Aayushi's Lab 2
-## Grocery list:
+## Tutorial on how to log onto a course specfic account:
 * Bananas
 * ice cream
 * pasta
