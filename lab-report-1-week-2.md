@@ -18,8 +18,10 @@ ls -a
 * cp /home/linux/ieng6/cs15lwi22/public/hello.txt ~/
 * cat /home/linux/ieng6/cs15lwi22/public/hello.txt
 ![image](runCommands.png)
+ 4. Moving files over SSH with scp. Make a file in your main directory and then copy using scp into your ssh directory. Then ssh into your account and check if your image is there!
+![image](SCP.png)
+ 5. 
  
-
  
  
   
