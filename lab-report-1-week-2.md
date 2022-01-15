@@ -20,7 +20,20 @@ ls -a
 ![image](runCommands.png)
  4. Moving files over SSH with scp. Make a file in your main directory and then copy using scp into your ssh directory. Then ssh into your account and check if your image is there!
 ![image](SCP.png)
- 5. 
+ 5. SSH Keys  
+ Next step is to make it a little easier to login. Instead of putting in your password everytime we can use SSH Keys.
+ The steps to do this are: 
+ * Use the command ssh-keygen to generate an ssh key
+ * enter /Users/joe/.ssh/id_rsa for a file to save the key
+ * you will be asked to eneter passphrase after logging in, make sure to enter without typing anything
+ * Finally SSH into your course specific account
+ ![image](Screen Shot 2022-01-14 at 4.11.35 PM.png)
+ 6. Making remote running even more pleasant
+ * By using some new commands we can make this process even easier
+ * One really useful edit is adding semicolons to run multiple commands on the same line in most terminals
+ * Another is adding commands in quotes after ssh'ing to run it directly on the server and exit 
+ ![image](Screen Shot 2022-01-14 at 4.19.07 PM.png)
+ ![image](Screen Shot 2022-01-14 at 4.20.07 PM.png)
  
  
  
