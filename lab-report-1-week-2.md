@@ -32,8 +32,8 @@ ls -a
  * By using some new commands we can make this process even easier
  * One really useful edit is adding semicolons to run multiple commands on the same line in most terminals
  * Another is adding commands in quotes after ssh'ing to run it directly on the server and exit 
- ![image](Screen Shot 2022-01-14 at 4.19.07 PM.png)
- ![image](Screen Shot 2022-01-14 at 4.20.07 PM.png)
+![image](Screen Shot 2022-01-14 at 4.19.07 PM.png)
+![image](Screen Shot 2022-01-14 at 4.20.07 PM.png)
  
  
  
