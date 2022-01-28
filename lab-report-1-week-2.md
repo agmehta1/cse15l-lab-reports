@@ -7,6 +7,7 @@
 [Install OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
 * Then, look up your course-specific account for CSE15L here:
 [Course-Specific Account Website](https://sdacs.ucsd.edu/~icc/index.php) 
+* Then log in using command: ```ssh cs15lwi22abd@ieng6.ucsd.edu```, with the abd replaced with your specific course ID.
 ![image](Remotely-connecting.png)
 3. Run Some Commands
 There are a few important commands to learn when using git. A few examples are cd which allows you to change your directory, ls which allows you to see the files in your current directory and mkdir which allows you to make a new directory. Try out these commands and see what they do!
