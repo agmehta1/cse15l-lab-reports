@@ -35,7 +35,7 @@ There are a few important commands to learn when using git. A few examples are c
 ![image](six.png)
 ![image](sixpart2.png)
 7. One way to optomize is to use less keystrokes. A way we can do that is when we want to repeat a command we can put ```^``` . This will go through the previous commands and we can keep hitting up till we get to the one we want. This saves us the keystrokes of retyping the whole code. The minimum is 2 keystrokes with an ```enter``` and the ```^``` key.
- 
+  
  
  
   
