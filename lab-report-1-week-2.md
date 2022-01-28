@@ -19,7 +19,7 @@ There are a few important commands to learn when using git. A few examples are c
 * ```cat /home/linux/ieng6/cs15lwi22/public/hello.txt```
 ![image](runCommands.png)
  4. Moving files over SSH with scp. Make a file in your main directory and then copy using scp into your ssh directory. Then ssh into your account and check if your image is there!
-![image](SCP.png)
+![image](SCP step.png)
  5. SSH Keys  
  Next step is to make it a little easier to login. Instead of putting in your password everytime we can use SSH Keys.
  The steps to do this are: 
