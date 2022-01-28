@@ -14,7 +14,7 @@ There are a few important commands to learn when using git. A few examples are c
 * ```cd```
 * ```ls -lat```
 ```ls -a```
-* ```ls <directory> where <directory> is /home/linux/ieng6/cs15lwi22/cs15lwi22abc, where the abc is one of the other group members’ username```
+* ```ls <directory> where <directory> is /home/linux/ieng6/cs15lwi22/cs15lwi22abc```, where the abc is one of the other group members’ username
 * ```cp /home/linux/ieng6/cs15lwi22/public/hello.txt ~/```
 * ```cat /home/linux/ieng6/cs15lwi22/public/hello.txt```
 ![image](runCommands.png)
@@ -23,8 +23,8 @@ There are a few important commands to learn when using git. A few examples are c
  5. SSH Keys  
  Next step is to make it a little easier to login. Instead of putting in your password everytime we can use SSH Keys.
  The steps to do this are: 
- * Use the command ssh-keygen to generate an ssh key
- * enter /Users/joe/.ssh/id_rsa for a file to save the key
+ * Use the command ```ssh-keygen``` to generate an ssh key
+ * enter ```/Users/joe/.ssh/id_rsa``` for a file to save the key
  * you will be asked to eneter passphrase after logging in, make sure to enter without typing anything
  * Finally SSH into your course specific account
  ![image](five.png)
