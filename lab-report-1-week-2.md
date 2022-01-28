@@ -1,4 +1,4 @@
-# Aayushi's Lab 2
+# Aayushi's Lab Report 1
 ## Tutorial on how to log onto a course specfic account
 1. [Install VS Code]( https://code.visualstudio.com)
 ![image](VScode.png)
