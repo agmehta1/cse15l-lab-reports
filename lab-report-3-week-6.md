@@ -3,7 +3,7 @@
 ## ```.ssh/config``` File and how to edit it
 I edited the file using ```vim``` on Terminal on my mac. 
 
-Commands to access and edit the ```ssh File```:
+Commands to access and edit the ```.ssh/config``` File:
 1. Open folder: ```cd ~/.ssh```
 2. Open/edit file: ```vim config```
 
