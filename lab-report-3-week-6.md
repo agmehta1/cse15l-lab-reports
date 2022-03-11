@@ -14,7 +14,7 @@ On Terminal: ![Image](Terminal.png)
         HostName ieng6.ucsd.edu
         User cs15lwi22zzz (use your username)```
         
-```Config``` File: ![Image](iengFile.png)
+```.ssh/config``` File: ![Image](iengFile.png)
 
 4. If you want you can change ```ieng6``` after ```Host``` to another name 
 
