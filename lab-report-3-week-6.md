@@ -1,4 +1,4 @@
-# Group Choice 1- Streamline ssh Configuration
+# Group Choice 1- Streamline ```ssh``` Configuration
 
 ## ```.ssh/config``` File and how to edit it
 I edited the file using ```vim``` on Terminal on my mac. 
@@ -24,7 +24,7 @@ On Terminal: ![Image](Terminal.png)
 
 Login: ![Image](LogintoAccount.png)
 
-## scp command to copy file with alias
+## ```scp``` command to copy file with alias
 1. Create a new file on computer: ```vim Hello.java```
 2. Then copy it to account: ```scp Hello.java ieng6:~/```
 3. log back into account: ```ssh ieng6```
