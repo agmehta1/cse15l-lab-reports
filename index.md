@@ -1,6 +1,6 @@
 
 ## Links to labs:
-* lab2: [Lab3](https://github.com/agmehta1/cse15l-lab-reports/blob/main/lab-report-2-week-4.md)
+* lab2: [Lab2](https://github.com/agmehta1/cse15l-lab-reports/blob/main/lab-report-2-week-4.md)
 * lab3: [Lab3](https://github.com/agmehta1/cse15l-lab-reports/blob/main/lab-report-3-week-6.md)
 ## Tutorial on how to log onto a course specfic account:
 * Bananas
