@@ -3,6 +3,7 @@
 * lab1: [Lab1](https://github.com/agmehta1/cse15l-lab-reports/blob/main/lab-report-1-week-2.md)
 * lab2: [Lab2](https://github.com/agmehta1/cse15l-lab-reports/blob/main/lab-report-2-week-4.md)
 * lab3: [Lab3](https://github.com/agmehta1/cse15l-lab-reports/blob/main/lab-report-3-week-6.md)
+* lab4: [lab4](https://github.com/agmehta1/cse15l-lab-reports/blob/main/lab-report-4-week-8.md)
 * lab5: [lab5](https://github.com/agmehta1/cse15l-lab-reports/blob/main/lab-report-5-week-10.md)
 ## Tutorial on how to log onto a course specfic account:
 * Bananas
