@@ -16,7 +16,7 @@ For this one both mine and the professor's outputs were incorrect. The issue in 
 ## Test 510
 I decided to look at test 510
 * The code in the file is ![image](510_code.png)
-* The output from the given markdown parse was: ![image](510_prof.png)
+* The output from the given markdown parse was: ![image](510_profs.png)
 * The output from my markdown parse was: ![image](510_mine.png)
 * The expected output was: ![image](510_expected.png)
 For this one again both mine and the professor's outputs were incorrect. The issue in the professor's markdown file is that since there is a space between ```[link]``` and ```(/uri)``` it shouldn't recognize it as a link as shown in the expected image. In the professor's it instead only prints out what is in the parenthesis. So in the line ``` int nextCloseBracket = markdown``` and the line below it should account for whether there is a space. It should also print what is in the bracket's if it is not a link. ![image](510_code_error.png)
